@@ -1,0 +1,133 @@
+@media screen and (min-width: 1366px) {
+    .container{max-width: 1300px;}
+}
+
+@media only screen and (max-width: 991px) {
+    html {
+        overflow-x: hidden;
+    }
+    body {
+        padding-top: 0;
+        overflow-x: hidden;
+    }
+    .mobile {
+        display: block !important;
+    }
+    .desktop {
+        display: none !important;
+    }
+    .customSec .container-fluid{
+        margin-left: 0;
+        width: 100%;
+        padding: 50px 15px;
+    }
+
+
+
+    .sliderContent h1 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .sliderContent .d-flex {
+        flex-wrap: wrap;
+    }
+    
+    .sectionHeding {
+        flex-wrap: wrap;
+        gap: 20px;
+        padding: 10px 0 !important;
+    }
+    
+    .sectionHeding h2 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    
+    .counter.p-4 {
+        flex-wrap: wrap;
+        padding: 15px 0 !important;
+        gap: 15px;
+    }
+    
+    .counterBx h3 {
+        font-size: 32px;
+    }
+    
+    .counterBx p {
+        font-size: 15px;
+    }
+    
+    .counterBx {
+        width: calc(100%/2 - 10px);
+    }
+    
+    .slider .owl-dots button:after {
+        display: none !important;
+    }
+    
+    .sliderWrp > img {
+        height: 250px;
+        object-fit: cover;
+    }
+    
+    .content {
+        left: 15px;
+        bottom: 15px;
+    }
+    
+    .content h3 {
+        font-size: 28px;
+    }
+    
+    .content p {
+        font-size: 16px;
+    }
+    
+    .fiveSlider, .twoSlider {
+        width: 100%;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    
+    .mb-5.px-5 {
+        padding: 0 15px !important;
+    }
+    
+    .twoSlider .owl-nav {
+        top: -50px;
+        right: 0;
+    }
+    
+    .twoSlider .content {
+        left: 15px;
+        bottom: 15px;
+    }
+    
+    .twoSlider .content p {
+        font-size: 15px;
+    }
+    
+    .accordionContent {
+        padding-left: 0;
+        padding-top: 20px;
+    }
+    
+    .fiveBx {
+        padding: 20px;
+        flex-wrap: wrap;
+    }
+        
+    .mentorBx {
+        width: calc(100%/1);
+    }
+    
+    .footLink {
+        margin-bottom: 30px;
+    }
+   
+
+}
+@media only screen and (max-width: 767px) {
+    
+}
+@media only screen and (max-width: 460px) {}

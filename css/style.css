@@ -167,7 +167,7 @@ div#navbarSupportedContent {
     transition: all 400ms ease;
 }
 .cross-toggler {
-    background: #fff;
+    background: none;
     color: #DC3B3B;
     padding: 0;
     width: 40px;
@@ -175,7 +175,7 @@ div#navbarSupportedContent {
     border-radius: 50px;
     line-height: 40px;
     text-align: center;
-    border: 1px solid #e4e7ee;
+    border: none;
     font-size: 20px;
 }
 ul.navbar-nav.ml-auto {

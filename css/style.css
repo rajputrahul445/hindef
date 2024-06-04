@@ -264,9 +264,9 @@ body.transform {
   }
   
   .sliderContent h1 {
-      line-height: 70px;
+      line-height: 80px;
       color: #fff;
-      font-size: 56px;
+      font-size: 66px;
       font-weight: 300;
       text-transform: capitalize;
   }
@@ -297,7 +297,7 @@ body.transform {
 }
 .sectionHeding h2{
     margin: 0;
-    font-size: 36px;
+    font-size: 40px;
     color: #fff;
     font-weight: 500;
     line-height: 50px;
@@ -327,7 +327,7 @@ body.transform {
     font-weight: 300;
 }
 p.para {
-    font-size: 18px;
+    font-size: 20px;
     color: #fff;
     font-weight: 300;
     line-height: 26px;
@@ -339,7 +339,7 @@ p.para {
 }
 
 .counterBx h3 {
-    font-size: 50px;
+    font-size: 60px;
     color: #DC3B3B;
     font-weight: 400;
 }
@@ -349,7 +349,7 @@ p.para {
 .counterBx p {
     margin: 0;
     color: #FFFFFF;
-    font-size: 19px;
+    font-size: 18px;
     font-weight: 300;
 }
 
@@ -396,7 +396,7 @@ p.para {
     width: 20%;
     border-right: solid 1px #434345;
     color: #fff;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 500;
     text-align: left;
     padding: 20px !important;
@@ -459,7 +459,7 @@ p.para {
     background: #030303;
     color: #fff;
     border-radius: 0px;
-    font-size: 28px;
+    font-size: 32px;
     border-top: solid 1px #434345;
     text-decoration: none;
     padding: 15px 25px;
@@ -517,7 +517,8 @@ div.accordion .card-body{margin: 0;}
 }
 
 .twoSlider .content p {
-    font-size: 20px;
+    font-size: 22px;
+    font-weight: 500;
 }
 
 .twoSlider {

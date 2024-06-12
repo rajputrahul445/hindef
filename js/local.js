@@ -39,7 +39,7 @@ $(document).ready(function(){
           }
       });
    
-    $('.fiveSlider').owlCarousel({
+    $('.fourSlider').owlCarousel({
           loop:true,
           margin:20,
           nav:false,

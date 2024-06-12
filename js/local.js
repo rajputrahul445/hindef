@@ -43,7 +43,7 @@ $(document).ready(function(){
           loop:true,
           margin:20,
           nav:false,
-          center: true,
+          center: false,
           autoplay:true,
           autoplayTimeout:5000,
           dots:true,
@@ -58,7 +58,7 @@ $(document).ready(function(){
                   center:false
               },
               1000:{
-                  items:5
+                  items:4
               }
           }
       });

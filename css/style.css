@@ -393,7 +393,7 @@ p.para {
     border-bottom: solid 1px #434345;
 }
 .slider .owl-dots button {
-    width: 20%;
+    width: 25%;
     border-right: solid 1px #434345;
     color: #fff;
     font-size: 20px;
@@ -402,7 +402,7 @@ p.para {
     padding: 20px !important;
 }
 .slider .owl-dots button.active{
-    width: 40%;
+    width: 50%;
     color: #DC3B3B;
 }
 
@@ -501,7 +501,14 @@ div.accordion .card {
     font-size: 24px;
     margin: 0 0 15px;
 }
+.accordionContent ul {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
 
+.accordionContent ul li {
+    margin-bottom: 10px;
+}
 .accordionContent p, div.accordion .card-body {
     color: #fff;
     margin-bottom: 30px;
@@ -673,7 +680,7 @@ backdrop-filter: blur(13.6px);
     font-weight: 300;
 }
 .fiveSlider {
-    width: 110%;
+    width: 100%;
 }
 .brand {
     display: flex;

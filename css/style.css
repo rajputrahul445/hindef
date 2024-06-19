@@ -342,6 +342,7 @@ p.para {
     font-size: 60px;
     color: #DC3B3B;
     font-weight: 400;
+    text-align: center;
 }
 .counterBx h3:after {
     content: "+";

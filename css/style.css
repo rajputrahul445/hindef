@@ -717,3 +717,11 @@ backdrop-filter: blur(13.6px);
     color: inherit;
     text-decoration: underline;
 }
+.lineForm label{
+    font-weight: 500;
+}
+.lineForm .form-control{
+    border: none;
+    border-bottom: solid 1px #000;
+    border-radius: 0px ;
+}

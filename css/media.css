@@ -57,7 +57,9 @@
         font-size: 15px;
         text-align: center;
     }
-    
+    .p-4.d-flex.align-items-center.justify-content-between{
+        flex-wrap:wrap;
+    }
     .counterBx {
         width: calc(100%/2 - 10px);
     }

@@ -687,6 +687,9 @@ backdrop-filter: blur(13.6px);
     display: flex;
     justify-content: center;
 }
+.brand img {
+    height: 90px;
+}
 .checkbox {
     display: none;
 }
